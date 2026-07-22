@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <h1>{{ title }}</h1>
+  <p class="post-meta">
+    <time datetime="{{ page.date | htmlDate }}">{{ page.date | readableDate }}</time>
+    {%- if topic %} · <a class="topic" href="/topics/{{ topic | slugify }}/">{{ topic }}</a>{% endif %}
+    {%- if rating %} · <span class="rating">{{ rating | stars }}</span>{% endif %}
+  </p>
+  {{ content | safe }}
+</article>
+
+<p class="back"><a href="/">← All writing</a></p>

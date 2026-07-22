@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "c3c2a08ea34b3cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a1ed5dce4961b23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b354ff5b1d7e873b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/writing-post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "writing-post"
+            }
+          },
+          {
+            "id": "ef3564f7b06a98ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/space-to-myself.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "space-to-myself"
+            }
+          },
+          {
+            "id": "aa4f40d88c166d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/space-to-myself.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "space-to-myself"
+            }
+          },
+          {
+            "id": "178cd5a0653fc107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/a-one-and-a-two.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a-one-and-a-two"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b74d648b5a12fd02",
+    "type": "split",
+    "children": [
+      {
+        "id": "2004c1bc338d6a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06d8e4d066af3c55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "887a1d04d51c4c64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce4d2d3a222f97dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22d1d3a5e2dc6412",
+    "type": "split",
+    "children": [
+      {
+        "id": "3585045362e8e172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "324e588791576520",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/space-to-myself.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for space-to-myself"
+            }
+          },
+          {
+            "id": "48f69f0048c52b65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/space-to-myself.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from space-to-myself"
+            }
+          },
+          {
+            "id": "f747c39afea3cfb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17f8e5c3cefd8a12",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "351d5e0aba186327",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/space-to-myself.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of space-to-myself"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa4f40d88c166d11",
+  "lastOpenFiles": [
+    "posts/make-the-thing.md",
+    "posts/a-so-i-love-this.md",
+    "posts/a-one-and-a-two.md",
+    "images/HNw1qTrXkAAtoSo.jpeg",
+    "posts/space-to-myself.md",
+    "images/Pasted image 20260721235046.png",
+    "posts/_embed-test.md",
+    "images",
+    "templates/writing-post.md",
+    "templates/review-post.md",
+    "posts/what-do-you-do-best.md",
+    "templates",
+    "css/style.css.tmp.79294.32289b10ee71",
+    "topics.njk",
+    "movies/dune-part-two.md",
+    "books/project-hail-mary.md",
+    "_includes/review.njk",
+    "_includes/reviewlist.njk",
+    "movies.md",
+    "movies.md.tmp.79294.de5fe439aed3",
+    "books.md",
+    "books.md.tmp.79294.8be9e3f337d8",
+    "movies/movies.json",
+    "movies",
+    "posts/What do you do best?.md",
+    "2026-07-21.md"
+  ]
+}
