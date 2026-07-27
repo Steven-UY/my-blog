@@ -52,3 +52,5 @@ Might try to do a day trip guided tour. Worst case I just see it.
 
 Cruise vibe I'm not sure looks touristy but heck why not. 
 
+Cu Chi Minh  
+
