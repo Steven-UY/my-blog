@@ -8,4 +8,15 @@ I have this person in my life who I used to be close with. It's difficult to mov
 
 ### They Don't Exist Anymore
 
-The way that I've been trying to think about it is this: People change and so the them that was close to you, the them that brightened your day and the them that you could just casually update and lean on are still there. The only thing is that they no longer exist in the present moment but they do ex
+The way that I've been trying to think about it is this: People change and so the them that was close to you, the them that brightened your day and the them that you could just casually update and lean on are still there. The only thing is that they no longer exist in the present moment. Rather, that person exists in your memories and in the ways that they affected you positively. The things that you admired about them and internalized, all of that is still within you.
+
+So in saying that, I feel like what is the point in missing that person? In a way they are still with me and I carry them with me despite them not existing any longer in the present moment. 
+
+### To You From Me
+
+I'm sad that it's basically over at this point.
+
+
+
+
+
