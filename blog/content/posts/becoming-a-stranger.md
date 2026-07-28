@@ -18,7 +18,9 @@ I'm sad that it's basically over at this point. I remember when I first contacte
 
 Things were fun that summer I enjoyed learning about your world about the art that you created and that linguistics program where you met so many cool people! I was hesitant because you were so different. It was like a block in my mind and I stopped myself from fully being a good friend. As time went on into the school year I felt a slow drift over time. It was gradual and I really didn't realize it at first, it was foolish of me to think that things would last forever. Because it didn't and I acted irrationally made some decisions out of my anxiety to try and save things.
 
-It ended up pushing you away more. And I feel hurt that I hurt you and hurt that you hurt me. I want to try and fix things. Clear the air get closure. I'm scared to try because I'm scared to make things worse. I'm not even sure if I can do it.
+It ended up pushing you away more. And I feel hurt that I hurt you and hurt that you hurt me. I want to try and fix things. Clear the air get closure. I'm scared to try because I'm scared to make things worse. I'm not even sure if I can do it or if that will even make this better.
+
+If that never ends up happening I just want you to know that I wish you the best even if I'm not there and thanks for giving me those wonderful feelings and new perspectives in life :)
 
 
 

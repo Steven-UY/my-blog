@@ -1,5 +1,5 @@
 ---
-title: Stuck
+title: stuck
 date: 2026-07-22
 description: Reality hits you
 topic: Myself

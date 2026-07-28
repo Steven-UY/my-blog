@@ -1,5 +1,5 @@
 ---
-title: Vietnam
+title: vietnam
 date: 2026-07-24
 description: I am going here idc
 topic: Travel

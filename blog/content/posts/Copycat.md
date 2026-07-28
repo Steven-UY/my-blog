@@ -1,5 +1,5 @@
 ---
-title: Copycat
+title: copycat
 date: 2026-07-23
 description: A strategy for prisoners dilemma
 topic:
