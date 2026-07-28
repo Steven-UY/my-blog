@@ -1,5 +1,5 @@
 ---
-title: creep
+title: Creep
 date: 2026-07-25
 description: Love this
 topic: Movies
