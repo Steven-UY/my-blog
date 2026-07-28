@@ -14,7 +14,9 @@ So in saying that, I feel like what is the point in missing that person? In a wa
 
 ### To You From Me
 
-I'm sad that it's basically over at this point.
+I'm sad that it's basically over at this point. I remember when I first contacted you it was so much fun, you were a stranger and somehow someway we met! I'll always remember that art museum we went to and also the baseball game that we watched. I had a really good time :) I regret not thinking about it more and not defining things between us. Assuming things that weren't true. I was scared to talk about things that felt 'real' and didn't want to ruin the fun and the friendship. It would have helped and maybe we wouldn't be here. 
+
+Things were fun that summer I enjoyed learning about your world about the art that you created 
 
 
 
