@@ -46,9 +46,13 @@ Might try to do a day trip guided tour. Worst case I just see it.
 
 ![[Pasted image 20260724104331.png]]
 
-### Ha Long
+### Ha Long Bay
 
 ![[Pasted image 20260724104459.png]]
+
+
+### Hanoi
+
 
 Cruise vibe I'm not sure looks touristy but heck why not. 
 
